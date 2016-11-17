@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "https://ssec.org.in/moodle30", "username": ""},
-    "demo_sites": {""},
+    "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "https://ssec.org.in/moodle30",
