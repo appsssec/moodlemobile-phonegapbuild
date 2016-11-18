@@ -1,7 +1,7 @@
 {
     "app_id" : "in.edu.sreesakthi.sreesakthiengineeringcollege1",
     "appname": "Moodle Mobile",
-    "versioncode" : "2015",
+    "versioncode" : "2016",
     "versionname" : "6",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
