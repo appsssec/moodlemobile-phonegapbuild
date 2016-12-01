@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "in.edu.sreesakthi.sreesakthiengineeringcollege1"
+        id        = "in.edu.sreesakthi.sreesakthiengineeringcollege2"
         versionCode = "20160"
         version = "6">
     <name>Sree Sakthi Engineering College</name>
